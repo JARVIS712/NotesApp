@@ -4,10 +4,9 @@ apply plugin: 'kotlin-android-extensions'
 apply plugin: 'kotlin-kapt'
 android {
     compileSdkVersion 30
-    buildToolsVersion "30.0.1"
 
     defaultConfig {
-        applicationId "com.codingwithme.notesapp"
+        applicationId "com.madd.noteit"
         minSdkVersion 22
         targetSdkVersion 30
         versionCode 1
